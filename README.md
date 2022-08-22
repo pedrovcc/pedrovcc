@@ -1,5 +1,5 @@
-### Hi there 👋 My name is Pedro Victor
-=======================================
+Hi there 👋 My name is Pedro Victor
+---------
 
 Mobile Developer
 ---------
