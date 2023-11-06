@@ -5,7 +5,7 @@ Mobile Developer
 ---------
 
 
-* 📱  I'm an flutter mobile developer
+* 📱  I'm a flutter mobile developer
 * 🌍  I live in Florianopolis, SC, Brazil
 * ✉️  You can contact me at [pedrovcc.tec@gmail.com](mailto:pedrovcc.tec@gmail.com)
 * 💻  I'm currently working on [Bridge](https://www.linkedin.com/company/laboratoriobridge/mycompany/)
