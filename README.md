@@ -1,7 +1,7 @@
 Hi 👋 My name is Pedro
 ---------
 
-Flutter Developer
+Mobile Engineer
 ---------
 
 
